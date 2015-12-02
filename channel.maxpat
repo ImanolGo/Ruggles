@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 542.0, 121.0, 720.0, 928.0 ],
+		"rect" : [ 332.0, 84.0, 859.0, 928.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -240,7 +240,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
-					"patching_rect" : [ 276.0, 408.0, 105.0, 22.0 ],
+					"patching_rect" : [ 276.0, 412.0, 105.0, 22.0 ],
 					"style" : "",
 					"text" : "buffer~ #1_buffer "
 				}
@@ -382,7 +382,7 @@
 , 			{
 				"box" : 				{
 					"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-					"buffername" : " ",
+					"buffername" : "A1",
 					"fontsize" : 12.0,
 					"grid" : 0.0,
 					"gridcolor" : [ 1.0, 0.0, 0.0, 0.501961 ],
@@ -464,8 +464,8 @@
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
-						"loopend" : [ 0.657596, "ms" ],
-						"loopstart" : [ 0.136054, "ms" ],
+						"loopend" : [ 797134.676107, "ms" ],
+						"loopstart" : [ 0.0, "ms" ],
 						"mode" : "basic",
 						"originallength" : [ 1.915646, "ticks" ],
 						"originaltempo" : 120.0,
