@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 259.0, 119.0, 935.0, 742.0 ],
+		"rect" : [ 259.0, 119.0, 905.0, 742.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -61,7 +61,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 329.0, 127.0, 20.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 58.0, 8.0, 20.0, 20.0 ],
+					"presentation_rect" : [ 53.0, 8.0, 20.0, 20.0 ],
 					"style" : ""
 				}
 
@@ -149,7 +149,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 96.5, 312.0, 30.0, 30.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 6.0, 49.0, 45.0, 45.0 ],
+					"presentation_rect" : [ 6.5, 36.5, 28.0, 28.0 ],
 					"style" : ""
 				}
 
@@ -191,15 +191,15 @@
 				"box" : 				{
 					"fontface" : 1,
 					"fontname" : "Avenir Book",
-					"fontsize" : 24.0,
+					"fontsize" : 18.0,
 					"id" : "obj-10",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 93.0, 153.0, 39.0, 41.0 ],
+					"patching_rect" : [ 93.0, 153.0, 32.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 4.0, 2.0, 47.0, 41.0 ],
+					"presentation_rect" : [ 1.0, 1.5, 39.0, 33.0 ],
 					"style" : "",
 					"text" : "#1",
 					"textjustification" : 1
