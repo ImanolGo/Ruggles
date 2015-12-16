@@ -168,7 +168,7 @@
 			}
 , 			{
 				"box" : 				{
-					"fontsize" : 16.0,
+					"fontsize" : 14.0,
 					"id" : "obj-24",
 					"maxclass" : "live.gain~",
 					"numinlets" : 2,
@@ -176,13 +176,13 @@
 					"orientation" : 1,
 					"outlettype" : [ "signal", "signal", "", "float", "list" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 149.0, 144.0, 275.0, 62.0 ],
+					"patching_rect" : [ 149.0, 144.0, 243.0, 57.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 14.5, 153.0, 235.0, 62.0 ],
+					"presentation_rect" : [ 18.0, 159.0, 228.0, 57.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~",
-							"parameter_shortname" : "live.gain~",
+							"parameter_shortname" : "Volume",
 							"parameter_type" : 0,
 							"parameter_mmin" : -70.0,
 							"parameter_mmax" : 6.0,
@@ -193,7 +193,7 @@
 					}
 ,
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"varname" : "live.gain~"
+					"varname" : "volume"
 				}
 
 			}
@@ -369,7 +369,7 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-24" : [ "live.gain~", "live.gain~", 0 ]
+			"obj-24" : [ "live.gain~", "Volume", 0 ]
 		}
 ,
 		"dependency_cache" : [  ],

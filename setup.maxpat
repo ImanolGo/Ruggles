@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 500.0, 132.0, 906.0, 376.0 ],
+		"rect" : [ 271.0, 176.0, 906.0, 376.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -104,6 +104,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -383,7 +384,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 13.0,
 									"id" : "obj-8",
-									"items" : [ ".gitignore", ",", "1_lorenzo.mp3", ",", "2_harry.mp3", ",", "3_robin.mp3", ",", "4_fu.mp3", ",", "5_arnim.mp3", ",", "6_jess.mp3", ",", "7_joe.mp3", ",", "8_patrik.mp3", ",", "9_X.mp3" ],
+									"items" : [ ".gitignore", ",", "1_lorenzo.wav", ",", "2_harry.wav", ",", "3_robin.wav", ",", "4_fu.wav", ",", "5_arnim.wav", ",", "6_jess.wav", ",", "7_joe.wav", ",", "8_patrik.wav", ",", "9_X.wav" ],
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
