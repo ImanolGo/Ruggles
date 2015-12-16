@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 415.0, 79.0, 1615.0, 1007.0 ],
+		"rect" : [ 271.0, 79.0, 1615.0, 1007.0 ],
 		"bgcolor" : [ 0.127068, 0.135023, 0.148178, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -145,7 +145,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
 					"id" : "obj-16",
 					"lockeddragscroll" : 0,
 					"maxclass" : "bpatcher",
@@ -1753,7 +1752,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 436.0, 375.0, 121.0, 125.0 ],
 									"style" : "",
-									"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/1_1.jpg\""
+									"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/3_1.jpg\""
 								}
 
 							}
@@ -1954,7 +1953,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 495.0, 260.0, 121.0, 23.0 ],
 									"style" : "",
-									"text" : "images/1_1.jpg"
+									"text" : "images/3_1.jpg"
 								}
 
 							}
@@ -2274,7 +2273,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
 					"patching_rect" : [ 728.5, 499.5, 239.0, 235.0 ],
-					"pic" : "Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/1_1.jpg",
+					"pic" : "Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/3_1.jpg",
 					"presentation" : 1,
 					"presentation_rect" : [ 1430.0, 500.0, 420.0, 410.0 ],
 					"varname" : "CityMap[2]"
@@ -2363,7 +2362,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 436.0, 375.0, 121.0, 125.0 ],
 									"style" : "",
-									"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/1_0.jpg\""
+									"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/3_0.jpg\""
 								}
 
 							}
@@ -2547,7 +2546,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 495.0, 260.0, 121.0, 23.0 ],
 									"style" : "",
-									"text" : "images/1_0.jpg"
+									"text" : "images/3_0.jpg"
 								}
 
 							}
@@ -2867,7 +2866,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
 					"patching_rect" : [ 459.0, 499.5, 239.0, 235.0 ],
-					"pic" : "Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/1_0.jpg",
+					"pic" : "Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images/3_0.jpg",
 					"presentation" : 1,
 					"presentation_rect" : [ 970.0, 500.0, 440.0, 410.0 ],
 					"varname" : "CityMap[1]"
@@ -3289,6 +3288,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-7",
 					"lockeddragscroll" : 0,
 					"maxclass" : "bpatcher",
@@ -3902,7 +3902,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 278.0, 478.0, 280.0, 49.0 ],
 													"style" : "",
-													"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/texts/1.txt\""
+													"text" : "\"Macintosh HD:/Users/imanolgo/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/texts/3.txt\""
 												}
 
 											}
@@ -4718,16 +4718,16 @@
 					"fontname" : "Avenir Book",
 					"fontsize" : 18.0,
 					"id" : "obj-68",
-					"linecount" : 9,
+					"linecount" : 10,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 627.0, 136.0, 720.0, 228.0 ],
+					"patching_rect" : [ 627.0, 136.0, 720.0, 252.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 8,
 					"presentation_rect" : [ 980.0, 130.0, 870.0, 203.0 ],
 					"style" : "",
-					"text" : "Lorem ipsum dolor sit amet , consectetur adipiscing elit. Curabitur tempus ultrices dui. Lorem ipsum dolor sit amet , consectetur adipiscing elit. Nam est ex , interdum a velit in , molestie iaculis nulla. Nam ultrices ultrices mauris , nec pharetra libero vulputate condimentum. Maecenas quis erat eleifend , auctor felis ac , sodales lacus. Donec tincidunt lacus semper dui dictum , ut tincidunt felis feugiat. Sed in tortor lorem. Suspendisse at tempor nunc , ac aliquam lectus. Suspendisse ultricies , leo non tristique aliquet , sapien mauris ornare sapien , ac ullamcorper urna quam id sapien. In dui ipsum , eleifend accumsan faucibus pharetra , molestie in diam. Cum sociis natoque penatibus et magnis dis parturient montes , nascetur ridiculus mus."
+					"text" : "Wie wird der Hauptplatz von den dort genutzten Ruhepositionen über das Hören wahrgenommen? Auf Bänken und Treppenstufen , die üblicherweise von den Besuchern des Hauptplatzes zum ausruhen genutzt werden , wurden von Studenten der Sound Studies Aufnahmen gemacht. Auffälig ist , dass der Raum sehr stark von Verkehrsgeräuschen , wie der Strassenbahn und den Fahrzeugreifen auf Pflastersteinen , dominiert wird. Deutlich wahrzunehmen sind auch die Gespräche und unterschiedlichen Sprachen der Bewohner und Touristen , die sich um die Hörpositionen aufgehalten haben. In der Wiedergabe und dem dabei möglichen Springen zwischen den unterschiedlichen Hörpositionen , kann man sich einen Eindruck vom zusammenhängenden und mehr oder weniger wechselden Raum verschaffen."
 				}
 
 			}
@@ -5841,14 +5841,14 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "1_0.jpg",
+				"name" : "3_0.jpg",
 				"bootpath" : "~/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images",
 				"patcherrelativepath" : "./images",
 				"type" : "JPEG",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "1_1.jpg",
+				"name" : "3_1.jpg",
 				"bootpath" : "~/Google Drive/Freelancing/2015/Sam Auinger/Ruggles/software/images",
 				"patcherrelativepath" : "./images",
 				"type" : "JPEG",
